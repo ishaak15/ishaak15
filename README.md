@@ -1,6 +1,4 @@
-### Hi there 👋. I'm Ishaak Mall.
-
-
+### Hi there 👋. I'm Ishaak Mall.<script src="https://www.hackthebox.eu/badge/119188"></script>
 
 <!--
 **ishaak15/ishaak15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +9,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently a final year B. Tech CSE student in Jaypee University of Engineering and Technology
 - 🌱 I have a keen interest in Computer Networks, Linux/Unix, Network Security, and Cloud Computing. I also like learning Data Structures, doing Competitive Programming, MLOps and havsome experince working with containers of Docker and Vagrant. 
-- 🔐 I'm extremely interested in the field of penetration testing and I'm active on HacktheBox.<img src="http://www.hackthebox.eu/badge/image/119188" alt="Hack The Box">
+- 🔐 I'm extremely interested in the field of penetration testing and I'm active on HacktheBox.<img src="https://miro.medium.com/max/400/1*UnSY7Y3WYHy5TKkUqj6XOA.jpeg" alt="c" width="20" height="20"/>
 - 👯 I’m looking for job opportunities for my future.
 - 🤔 I’m looking for help to develop projects related to cybersecurity and Cloud Devops.
 - 💬 Ask me about Networking, Network Security, Cloud computing, Data Structures, and containerisation. My favourite programming languages are <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" alt="python" width="20" height="20"/>, <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="20" height="20"/> 
