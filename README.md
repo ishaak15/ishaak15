@@ -1,5 +1,4 @@
-### Hi there 👋. I'm Ishaak Mall.<script src="https://www.hackthebox.eu/badge/119188"></script>
-
+### Hi there 👋. I'm Ishaak Mall. <img src="http://www.hackthebox.eu/badge/image/119188" alt="Hack The Box">
 <!--
 **ishaak15/ishaak15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
