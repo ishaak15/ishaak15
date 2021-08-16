@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently a final year B. Tech CSE student in Jaypee University of Engineering and Technology
+- 🔭 I’m B. Tech CSE graduate from Jaypee University of Engineering and Technology
 - 🌱 I have a keen interest in Computer Networks, Linux/Unix, Network Security, and Cloud Computing. I also like learning Data Structures, doing Competitive Programming, MLOps and havsome experince working with containers of Docker and Vagrant. 
 - 🔐 I'm extremely interested in the field of penetration testing and I'm active on HacktheBox. You can check my profile here 
 <a href="https://www.hackthebox.eu/profile/119188" target="blank"><img align="center" src="https://miro.medium.com/max/400/1*UnSY7Y3WYHy5TKkUqj6XOA.jpeg" alt="tetrapack@HTB" height="20" width="20" /></a>
